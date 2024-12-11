@@ -1,4 +1,4 @@
-﻿namespace NoNameYetUI
+﻿namespace ContactsAppUI
 {
     partial class Form1
     {

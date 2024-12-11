@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1D42FCA0-4AB1-49BE-9947-CA229CD96DAC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>NoNameYetUI</RootNamespace>
-    <AssemblyName>NoNameYetUI</AssemblyName>
+    <RootNamespace>ContactsAppUI</RootNamespace>
+    <AssemblyName>ContactsAppUI</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

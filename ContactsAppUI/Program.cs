@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace NoNameYetUI
+namespace ContactsAppUI
 {
     internal static class Program
     {
